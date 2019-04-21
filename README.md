@@ -1,2 +1,2 @@
 # joserafaelaga.github.io
-Web/Blog Personal con Jekyll
+Web/Blog personal con Jekyll
